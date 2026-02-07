@@ -1,0 +1,89 @@
+body {
+	font-family: sans-serif;
+}
+
+.form {
+	max-width: 250px;
+}
+
+.fieldset {
+	border-radius: 10px;
+}
+
+.h4 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.name {
+	display: block;
+	padding-bottom: 10px;
+	line-height: 25px;
+}
+
+.name-1 {
+	min-width: 180px;
+	padding-left: 5px;
+}
+
+.age {
+	display: block;
+	padding-bottom: 10px;
+	line-height: 25px;
+}
+
+.age-1 {
+	min-width: 180px;
+	padding-left: 5px;
+}
+
+.phone {
+	display: block;
+	padding-bottom: 10px;
+	line-height: 25px;
+}
+
+.phone-1 {
+	min-width: 180px;
+	padding-left: 5px;
+}
+
+.email {
+	display: block;
+	padding-bottom: 10px;
+	line-height: 25px;
+}
+
+.email-1 {
+	min-width: 180px;
+	padding-left: 5px;
+}
+
+.massage {
+	display: block;
+	padding-bottom: 10px;
+	line-height: 25px;
+}
+
+.textarea {
+	display: block;
+	resize: vertical;
+	min-height: 30px;
+	max-height: 200px;
+	min-width: 180px;
+	padding-left: 5px;
+}
+
+.checkbox {
+	display: block;
+	padding-bottom: 10px;
+}
+
+.checkbox-1 {
+	cursor: pointer;
+}
+
+.button {
+	display: block;
+	cursor: pointer;
+}
